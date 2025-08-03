@@ -11,13 +11,13 @@
 <img align="right" alt="Coding" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <div align="left">
 
-  🎓 I am a 3rd-year undergrad ECE student
+  🎓 I am a 2025 grad from IIIT Kota
 
   💡 I'm passionate about coding
  
- 🔭 I’m currently working on **E-commerce full stack website**
+ 🔭 I’m currently working on **Myself**
  
- 🌱 I’m currently learning **ReactJS**
+ 🌱 I’m currently learning **automation**
 
 💬 Ask me about **C++, Python, JavaScript ... or anything [here](https://abhay-59.github.io/portfolio/)**
 
